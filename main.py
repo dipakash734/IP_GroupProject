@@ -1,4 +1,4 @@
-#Menu page
+#Begin! Menu page
 print('Welcome to battle game! \n(1)new game\n(2)save game\n(3)quit')
 
 def main():
